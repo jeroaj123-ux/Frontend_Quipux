@@ -19,6 +19,7 @@ Integración completa con el backend mediante HttpClient.
 Para consultar o modificar la funcionalidad del promedio, puedes dirigirte a los siguientes archivos (En estos archivos se encuentra lo que agregue):
 
 Semillero/
+
 ├── src/
 
 │   ├── app/
