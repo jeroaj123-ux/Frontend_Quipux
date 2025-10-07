@@ -1,0 +1,1 @@
+Trabajo Frontend conectado al Backend del repositorio "Backend_Spring" he agregado la opcion para ver la tabla con los promedios de los estudiantes, para verlo tendremos que entrar a las carpetas Semillero/src/app/components/admin-estudiantes, y a Semillero/src/app/_services/estudiantes.service.ts
