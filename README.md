@@ -20,14 +20,23 @@ Para consultar o modificar la funcionalidad del promedio, puedes dirigirte a los
 
 Semillero/
 ├── src/
+
 │   ├── app/
+
 │   │   ├── components/
+
 │   │   │   └── admin-estudiantes/
+
 │   │   │       ├── admin-estudiantes.component.ts
+
 │   │   │       ├── admin-estudiantes.component.html
+
 │   │   │       └── admin-estudiantes.component.css
+
 │   │   └── _services/
+
 │   │       └── estudiantes.service.ts
+
 
 
 Tecnologías Utilizadas
